@@ -53,7 +53,7 @@ new skill easily be added to our hero?
 
 # How to
 
-``$ git clone https://github.com/alex712/CourierChallenge.git/``  
+``$ git clone https://github.com/alex712/eMAG-s-Hero.git``  
 ``$ php index.php``
 
 Credits: Alexandru Rotaru https://www.linkedin.com/in/alexrotaru87/

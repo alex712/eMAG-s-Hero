@@ -11,7 +11,7 @@ following stats:
 ● Luck: 10% - 30% (0% means no luck, 100% lucky all the time).  
 Also, he possesses 2 skills:  
 ● Rapid strike: Strike twice while it’s his turn to attack; there’s a 10% chance he’ll use this skill  
-every time he attacks
+every time he attacks  
 ● Magic shield: Takes only half of the usual damage when an enemy attacks; there’s a 20%
 change he’ll use this skill every time he defends.
 

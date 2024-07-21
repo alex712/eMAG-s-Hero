@@ -9,6 +9,7 @@ following stats:
 ● Defence: 45 – 55  
 ● Speed: 40 – 50  
 ● Luck: 10% - 30% (0% means no luck, 100% lucky all the time).  
+
 Also, he possesses 2 skills:  
 ● Rapid strike: Strike twice while it’s his turn to attack; there’s a 10% chance he’ll use this skill  
 every time he attacks  
